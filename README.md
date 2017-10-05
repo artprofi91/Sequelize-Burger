@@ -1,0 +1,2 @@
+# Sequelize-Burger
+Sequelize-Burger
